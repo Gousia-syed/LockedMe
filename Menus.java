@@ -15,7 +15,7 @@ public class Menus {
 	public void introScreen() {
 		System.out.println();
 		System.out.println("*************************************************");
-		System.out.println("*      DEVELOPED BY GOUSIA SYEK     *");
+		System.out.println("*      DEVELOPED BY GOUSIA SYED     *");
 		System.out.println("*************************************************");
 		System.out.println("*               LOCKEDME.COM                    *");
 		System.out.println("*************************************************");
